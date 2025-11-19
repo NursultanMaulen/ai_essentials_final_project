@@ -42,7 +42,6 @@ desktop.ini
 results/
 comparison/
 *.html
-*.png
 
 # Kaggle cache
 .kaggle/
