@@ -1,0 +1,53 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+final_project.zip
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+results/
+comparison/
+*.html
+*.png
+*.csv
+
+# Kaggle cache
+.kaggle/
+
+# Environment variables
+.env
+.env.local
