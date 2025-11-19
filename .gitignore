@@ -43,7 +43,6 @@ results/
 comparison/
 *.html
 *.png
-*.csv
 
 # Kaggle cache
 .kaggle/
